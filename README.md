@@ -1,2 +1,2 @@
 # BOOTCAMP_TQI
- Projetos Realizados BootCamp TQI
+Aqui vou disponibilizar os projetos realizados no Bootcamp TQI em parceria com a DIO.
